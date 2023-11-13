@@ -1,0 +1,12 @@
+    
+  .buttons button:hover {
+    color:rgb(21, 196, 88);
+    background-color: rgb(39, 7, 7);
+    cursor: pointer;
+  }
+  
+  .active {
+    color:black ;
+    background-color: #408b5b ;
+  }
+  

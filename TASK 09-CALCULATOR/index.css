@@ -1,0 +1,33 @@
+
+.card-body{
+     display:grid;
+     grid-template-columns: auto auto auto auto;
+     row-gap: 8px;
+     column-gap: 8px;
+     background-color: lightgreen
+
+
+}
+
+body {
+     background-image: url("index.jpeg");
+     background-repeat: repeat-y;
+     background-size: cover;
+   }
+button{   
+      border: solid black;
+       background-color: lightgreen;
+       box-shadow: 0 0 2px ; 
+     }
+#result{
+     border: solid black;
+     box-shadow: 0 0 15px 0 lightgreen;
+     background-color: rgb(100, 215, 100);
+     text-align: right;
+     height: 60px;
+}
+.card-body{
+     border: solid black;
+     border-top:none ;
+     box-shadow: 0 0 15px 0 lightgreen;
+     }
